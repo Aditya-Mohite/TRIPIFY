@@ -1,3 +1,3 @@
-UPRAISE
+TRIPIFY
 
- A comprehensive platform that offers industry mentorship, networking opportunities, and necessary tools for startup incubators.
+A dynamic travel website, providing a robust platform for hotel searches across multiple cities.
