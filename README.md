@@ -9,6 +9,39 @@ TRIPIFY isn't just about finding hotels; it's about creating an interactive expe
 
 On the backend, TRIPIFY uses PHP and MySQL, providing a stable and scalable infrastructure to manage user data and hotel information efficiently. The combination of modern web technologies like HTML, CSS, JavaScript makes TRIPIFY a comprehensive and reliable platform for travelers looking to find the perfect hotel and for developers interested in building sophisticated web applications.
 
+## Screenshots
+- **Homepage**:
+  <br>
+  
+  ![Homepage](Project-Result/1.png)
+  <br><br> 
+- **Sign-Up**:
+  <br>
+  
+  ![Sign-Up](Project-Result/2.png)
+  <br><br>
+- **OTP Verification**:
+  <br>
+  
+  ![OTP Verification](Project-Result/3.png)
+  <br><br>
+- **Hotel Search**:
+  <br>
+  
+  ![Hotel Search](Project-Result/4.png)
+  <br><br>
+- **Review System**:
+  <br>
+  
+  ![Review System](Project-Result/6.png)
+  <br><br>
+- **Feedback Form**:
+  <br>
+  
+  ![Feedback Form](Project-Result/5.png)
+  <br>
+
+
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
@@ -23,10 +56,6 @@ On the backend, TRIPIFY uses PHP and MySQL, providing a stable and scalable infr
 - **Feedback Form**: Users can submit their feedback and reviews.
 - **Rating System**: Users can give ratings to the searches and the results.
 
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 ## Technologies Used ⚒️
 - **Frontend**: HTML, CSS, JavaScript
@@ -51,6 +80,10 @@ On the backend, TRIPIFY uses PHP and MySQL, providing a stable and scalable infr
 6. Update the database configuration in the config.php file with your database name, username, and password.
 7. Place the backend files in the htdocs directory within your XAMPP installation (e.g., C:\xampp\htdocs\travel-website).
 8. Ensure that the main0.php file is in the root directory of the project, as it is the entry point for the application.
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
 ------
 
