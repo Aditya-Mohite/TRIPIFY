@@ -293,7 +293,7 @@ include("functions.php");
 	<script src="js/main.js"></script>
 
 	<script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBSnblPMOwEdteX5UPYXf7XUtJYcbypx6w&callback=initMap&libraries=places&v=weekly"
+      src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&libraries=places&v=weekly"
       defer
     ></script>
 
